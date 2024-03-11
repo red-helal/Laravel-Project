@@ -1,7 +1,7 @@
 Project is running
 # Laravel-Project
 ## Karkhana Industial Project full responsive and dynamic with laravel blade templete.. 
-## Admin pannl added . 
+## Admin pannel added . 
 ![karakhana_sShot1](https://github.com/red-helal/Laravel-Project/assets/157196790/1905820e-1322-44b4-9b52-15ed74da5d8d)
 
 ![karakhana_Page_sShot3](https://github.com/red-helal/Laravel-Project/assets/157196790/cde5c80e-dc2c-4103-b7a2-0bcbf423484e)
