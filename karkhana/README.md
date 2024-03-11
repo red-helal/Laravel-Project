@@ -15,3 +15,8 @@ Project is running
 ![karakhana_admin_sShot4](https://github.com/red-helal/Laravel-Project/assets/157196790/5a9a4cf7-7f51-4bcc-bd1d-29bef967dc50)
 
 
+##Project video
+https://github.com/red-helal/Laravel-Project/assets/157196790/c76b7252-0386-4bc5-bc58-f2a64795d185
+
+
+
